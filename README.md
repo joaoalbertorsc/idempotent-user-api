@@ -5,10 +5,10 @@ Uma API RESTful simples desenvolvida em **Spring Boot**, focada na validação d
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Java 17+**
-* **Spring Boot 3.3.x** (Web, Validation)
+* **Java 17**
+* **Spring Boot 4.1.1** (Web, Validation)
 * **Jakarta Validation** (Validação de DTOs)
-* **Springdoc OpenAPI / Swagger** (Documentação automática)
+* **Springdoc OpenAPI 2.7.0 / Swagger** (Documentação automática)
 
 ## 🎯 Funcionalidades Principais
 
